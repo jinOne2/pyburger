@@ -1,2 +1,1 @@
-print("hi")
-print("7")
+print("1번")
